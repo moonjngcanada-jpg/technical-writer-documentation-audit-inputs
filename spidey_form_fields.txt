@@ -1,8 +1,0 @@
-Repository name:
-technical-writer-documentation-audit-inputs
-
-GitHub description:
-Synthetic technical-writer documentation audit inputs for model benchmarking.
-
-Short description:
-Synthetic technical-writing benchmark packet for documentation source hierarchy, terminology/style audit, release-note coverage, accessibility/localization review, source rejection, duplicate-document handling, and CSV-integrity validation.
