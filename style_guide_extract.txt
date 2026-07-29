@@ -1,0 +1,13 @@
+Technical Writing Style Guide Extract (fictional)
+
+SG-1 Source authority. Apply documentation_rules_extract.txt as the controlling rules file for this benchmark. When product_change_log.csv and SME notes conflict with doc_inventory_register.csv, the accepted product change and current accepted SME note control. Draft SME notes and draft release notes cannot close documentation gaps.
+
+SG-2 Terminology. Use canonical terminology from terminology_glossary.csv. When a product change says a UI term changed, old UI labels are revision-required unless preserved as historical/deprecation context.
+
+SG-3 Inclusive language. Deprecated terms listed in terminology_glossary.csv must be replaced in customer-facing summaries, headings, alt text, and release notes unless quoted as rejected source evidence.
+
+SG-4 Accessibility. screenshot_alt_text_log.csv controls alt-text status. Alt text that preserves old UI labels after a renamed UI term is needs_update unless a current accepted SME note explicitly authorizes historical wording.
+
+SG-5 Localization. localization_review_notes.csv controls localization readiness. Draft, pending, or blocked localization cannot be treated as release-ready.
+
+SG-6 Release notes. release_note_draft.csv controls release-note text only after applying product_change_log.csv, SME notes, deprecation_schedule.json, and terminology rules. Draft release notes are not final.

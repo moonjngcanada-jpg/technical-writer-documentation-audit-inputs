@@ -1,0 +1,10 @@
+doc_id,doc_slug,doc_title,doc_status,duplicate_of,doc_type,declared_product_area,intake_release_label,intake_owner_note
+DOC-2026-801,quickstart/connectors,Connector Quickstart,Active,,guide,Connectors,v5.2,Inventory says OAuth setup is complete and customer-ready
+DOC-2026-802,admin/audit-export,Audit Export Admin Guide,Active,,guide,Admin,v5.2,Inventory says export CSV options are current
+DOC-2026-803,api/tokens,API Tokens Reference,Active,,api_reference,Developer Platform,v5.2,Inventory says token endpoint examples were fully updated
+DOC-2026-804,security/roles,Role-Based Access Guide,Active,,guide,Security,v5.2,Inventory says screenshots approved after review
+DOC-2026-805,billing/metering-api,Metering API Reference,Active,,api_reference,Billing,v5.2,Inventory says deprecation notice is already inserted
+DOC-2026-806,search/advanced-filters,Advanced Search Filters,Active,,guide,Search,v5.2,Inventory says localization copy is final
+DOC-2026-807,mobile/offline-mode,Mobile Offline Mode,Active,,guide,Mobile,v5.2,Inventory says release note is closed
+DOC-2026-808,integrations/webhooks,Webhook Retry Policy,Active,,api_reference,Integrations,v5.2,Inventory says webhook limits are customer-safe
+DOC-2026-809,search/legacy-filtering,Legacy Search Filtering,Closed duplicate,DOC-2026-806,guide,Search,v5.1,Closed duplicate retained for audit trail only

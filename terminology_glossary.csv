@@ -1,0 +1,8 @@
+term_id,canonical_term,deprecated_terms,term_status,required_action
+TERM-001,Saved filters,Advanced filters,current,Replace old UI term when product_change_log.csv says UI label changed
+TERM-002,allowlist,whitelist,current,Replace deprecated inclusive-language term
+TERM-003,blocklist,blacklist,current,Replace deprecated inclusive-language term
+TERM-004,primary/replica,master/slave,current,Replace deprecated architecture terms
+TERM-005,JSONL export,JSON lines export,current,Use JSONL export in release notes and admin guide
+TERM-006,client secret rotation,OAuth secret reset,current,Use exact term in connector docs
+TERM-007,duplicate-only evidence,legacy duplicate evidence,current,Use for closed duplicate rows retained for audit trail

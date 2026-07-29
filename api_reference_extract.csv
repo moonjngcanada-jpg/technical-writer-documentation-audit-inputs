@@ -1,0 +1,8 @@
+api_id,doc_id,endpoint,method,api_status,example_status,version_note,api_note
+API-803,DOC-2026-803,/v1/token,POST,current,stale,Example still uses deprecated singular endpoint
+API-805,DOC-2026-805,/v1/metering,GET,current,needs_banner,Deprecated endpoint still lacks customer-facing sunset banner
+API-805B,DOC-2026-805,/v2/meters,GET,current,current,Replacement endpoint documented in migration note
+API-808,DOC-2026-808,/v1/webhooks/retries,GET,current,current,Retry table states 8 attempts over 48 hours
+API-809,DOC-2026-809,/v1/search/filter,GET,duplicate_only,stale,Duplicate-only API row copied from DOC-2026-806
+API-805C,DOC-2026-805,/v1/metering,DELETE,current,needs_banner,Missing migration warning for destructive legacy endpoint
+API-ERR,DOC-2026-805,/v1/metering,POST,current,needs_banner,deprecated sunset date pending

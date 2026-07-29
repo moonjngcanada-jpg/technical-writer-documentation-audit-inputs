@@ -1,0 +1,33 @@
+{
+  "schedule_version": "2026.05",
+  "rules_note": "Fictional deprecation schedule for benchmark only.",
+  "items": [
+    {
+      "doc_id": "DOC-2026-803",
+      "endpoint": "/v1/token",
+      "replacement": "/v2/tokens",
+      "status": "deprecated_alias",
+      "sunset_date": "2026-07-31",
+      "banner_required": true,
+      "customer_visible": true
+    },
+    {
+      "doc_id": "DOC-2026-805",
+      "endpoint": "/v1/metering",
+      "replacement": "/v2/meters",
+      "status": "deprecated",
+      "sunset_date": "2026-09-30",
+      "banner_required": true,
+      "customer_visible": true
+    },
+    {
+      "doc_id": "DOC-2026-809",
+      "endpoint": "/v1/search/filter",
+      "replacement": "/v2/search/saved-filters",
+      "status": "duplicate_only",
+      "sunset_date": "2026-09-30",
+      "banner_required": false,
+      "customer_visible": false
+    }
+  ]
+}

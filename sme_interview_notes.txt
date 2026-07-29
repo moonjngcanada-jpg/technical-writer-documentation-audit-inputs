@@ -1,0 +1,53 @@
+SME-801
+status: current accepted
+related_doc_id: DOC-2026-801
+source_role: connector PM
+note: Secret rotation is required after first login. Quickstart must include the rotation step before production authorization.
+
+SME-802
+status: current accepted
+related_doc_id: DOC-2026-802
+source_role: admin PM
+note: JSONL is additive. CSV remains available. Any summary that says CSV only is stale.
+
+SME-803
+status: current accepted
+related_doc_id: DOC-2026-803
+source_role: API PM
+note: /v2/tokens is the controlling endpoint for examples. /v1/token may appear only as deprecated alias with banner.
+
+SME-804
+status: current accepted
+related_doc_id: DOC-2026-804
+source_role: security PM
+note: Viewer role cannot export audit records by default.
+
+SME-805
+status: current accepted
+related_doc_id: DOC-2026-805
+source_role: billing API PM
+note: /v1/metering must show sunset date 2026-09-30 and must link to /v2/meters.
+
+SME-806
+status: current accepted
+related_doc_id: DOC-2026-806
+source_role: search PM
+note: The public UI label is Saved filters. Advanced filters is no longer approved customer-facing terminology.
+
+SME-807
+status: draft
+related_doc_id: DOC-2026-807
+source_role: mobile PM
+note: Offline mode rollout language is probably ready, but the final admin-toggle prerequisite was not accepted yet.
+
+SME-808
+status: current accepted
+related_doc_id: DOC-2026-808
+source_role: integrations PM
+note: Webhook retries cap at 8 attempts over 48 hours.
+
+SME-809
+status: duplicate_only
+related_doc_id: DOC-2026-809
+source_role: search PM
+note: Duplicate-only SME note copied from DOC-2026-806.

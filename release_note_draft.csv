@@ -1,0 +1,10 @@
+release_note_id,doc_id,note_status,release_label,release_note_summary,customer_visible_status
+RN-801,DOC-2026-801,current,v5.2,Connector OAuth setup now requires client secret rotation after first login,ready
+RN-802,DOC-2026-802,current,v5.2,Audit export adds JSONL support while retaining CSV,ready
+RN-803,DOC-2026-803,current,v5.2,Token endpoint examples updated for /v2/tokens,needs_verification
+RN-804,DOC-2026-804,current,v5.2,Viewer role loses export permission by default,ready
+RN-805,DOC-2026-805,draft,v5.2,Metering API deprecation notice planned for future update,draft_only
+RN-806,DOC-2026-806,current,v5.2,Advanced filters renamed Saved filters,needs_term_update
+RN-807,DOC-2026-807,current,v5.2,Offline sync available generally,needs_rollout_caveat
+RN-808,DOC-2026-808,current,v5.2,Webhook retries cap at 8 attempts over 48 hours,ready
+RN-809,DOC-2026-809,duplicate_only,v5.1,Legacy filtering note copied from DOC-2026-806,duplicate_only

@@ -1,0 +1,10 @@
+change_id,doc_id,source_status,change_type,product_area,release_label,change_summary,required_doc_action,customer_visible
+CHG-801,DOC-2026-801,accepted,auth_change,Connectors,v5.2,Connector OAuth setup now requires rotating client secret after first login,Update prerequisites and quickstart steps,true
+CHG-802,DOC-2026-802,accepted,export_change,Admin,v5.2,Audit export adds JSONL option and keeps CSV option,Document JSONL and preserve CSV behavior,true
+CHG-803,DOC-2026-803,accepted,api_change,Developer Platform,v5.2,Token endpoint renamed from /v1/token to /v2/tokens,Update endpoint path and examples,true
+CHG-804,DOC-2026-804,accepted,security_change,Security,v5.2,Viewer role loses export permission by default,Update role table and screenshot captions,true
+CHG-805,DOC-2026-805,accepted,deprecation_change,Billing,v5.2,/v1/metering remains supported but must show sunset date 2026-09-30,Add deprecation banner and migration note,true
+CHG-806,DOC-2026-806,accepted,ui_change,Search,v5.2,Advanced filters renamed Saved filters in UI,Update terminology and screenshots,true
+CHG-807,DOC-2026-807,accepted,mobile_change,Mobile,v5.2,Offline sync is staged rollout behind admin toggle,Add rollout caveat and admin-toggle prerequisite,true
+CHG-808,DOC-2026-808,accepted,api_change,Integrations,v5.2,Webhook retries cap at 8 attempts across 48 hours,Update retry table and release note,true
+CHG-809,DOC-2026-809,duplicate_only,ui_change,Search,v5.1,Legacy filter change copied from DOC-2026-806,Duplicate-only change retained for audit trail,false

@@ -1,0 +1,9 @@
+revision_id,doc_id,revision_date,revision_status,changed_file,change_note
+RH-801,DOC-2026-801,2026-05-14,current,doc_inventory_register.csv,Owner note updated after SME clarification
+RH-802,DOC-2026-802,2026-05-14,current,release_note_draft.csv,"Release note updated, JSONL reference retained"
+RH-803,DOC-2026-803,2026-05-14,current,api_reference_extract.csv,Endpoint rename still open
+RH-805,DOC-2026-805,2026-05-14,current,deprecation_schedule.json,Sunset date requires banner insertion
+RH-806,DOC-2026-806,2026-05-14,current,ui_string_export.csv,Search label change remains open
+RH-807,DOC-2026-807,2026-05-14,current,localization_review_notes.csv,Draft localization remains unaccepted
+RH-808,DOC-2026-808,2026-05-14,current,api_reference_extract.csv,Webhook retry table approved
+RH-809,DOC-2026-809,2026-05-14,duplicate_only,doc_inventory_register.csv,Closed duplicate revision copied from DOC-2026-806

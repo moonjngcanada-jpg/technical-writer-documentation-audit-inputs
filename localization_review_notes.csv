@@ -1,0 +1,9 @@
+loc_id,doc_id,locale,review_status,term_flag,localization_note
+LOC-801,DOC-2026-801,fr-FR,accepted,current,OAuth rotation text approved
+LOC-802,DOC-2026-802,ja-JP,accepted,current,JSONL export string approved
+LOC-803,DOC-2026-803,de-DE,blocked,endpoint_mismatch,Localized examples still show /v1/token
+LOC-804,DOC-2026-804,fr-FR,accepted,current,Viewer role table approved
+LOC-806,DOC-2026-806,ja-JP,pending,old_term,Localization still uses Advanced filters instead of Saved filters
+LOC-807,DOC-2026-807,es-ES,draft,current,Draft note says staged rollout text is ready
+LOC-808,DOC-2026-808,de-DE,accepted,current,Retry limit translated accurately
+LOC-809,DOC-2026-809,ja-JP,duplicate_only,old_term,Duplicate-only localization copied from DOC-2026-806

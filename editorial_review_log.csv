@@ -1,0 +1,10 @@
+review_id,doc_id,review_status,reviewer_role,review_note,required_follow_up
+REVW-801,DOC-2026-801,accepted,current reviewer,Prerequisites updated but quickstart step order still needs final check,confirm step order
+REVW-802,DOC-2026-802,accepted,current reviewer,Admin guide mentions JSONL but release note summary still says CSV only,update release note summary
+REVW-803,DOC-2026-803,needs_revision,API editor,Endpoint examples still use /v1/token,update examples
+REVW-804,DOC-2026-804,accepted,security reviewer,Role table text approved after permission correction,none
+REVW-805,DOC-2026-805,needs_revision,API editor,Deprecation banner missing for /v1/metering,add sunset banner
+REVW-806,DOC-2026-806,needs_revision,UX writer,Title still says Advanced filters but UI now says Saved filters,update title and alt text
+REVW-807,DOC-2026-807,draft,mobile reviewer,Draft note says staged rollout caveat is ready,await accepted review
+REVW-808,DOC-2026-808,accepted,API editor,Retry table and summary approved,none
+REVW-809,DOC-2026-809,duplicate_only,UX writer,Duplicate-only review copied from DOC-2026-806,duplicate-only

@@ -1,0 +1,8 @@
+string_id,doc_id,ui_area,string_status,visible_label,help_text,locale_scope
+UI-801,DOC-2026-801,Connectors,current,Rotate client secret,Rotate the connector client secret after first login,en-US
+UI-802,DOC-2026-802,Admin,current,Export as JSONL,Choose CSV or JSONL for audit exports,en-US
+UI-804,DOC-2026-804,Security,current,Viewer,Viewer role cannot export audit records by default,en-US
+UI-806,DOC-2026-806,Search,current,Saved filters,Use filters, sort results,en-US
+UI-807,DOC-2026-807,Mobile,current,Offline mode,Admin toggle required during staged rollout,en-US
+UI-808,DOC-2026-808,Integrations,current,Retry attempts,Retries stop after 8 attempts or 48 hours,en-US
+UI-809,DOC-2026-809,Search,duplicate_only,Legacy filters,Duplicate-only UI string copied from DOC-2026-806,en-US

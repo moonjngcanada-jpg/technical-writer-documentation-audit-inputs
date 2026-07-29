@@ -1,0 +1,8 @@
+asset_id,doc_id,asset_status,screenshot_context,alt_text,accessibility_status
+ALT-801,DOC-2026-801,current,OAuth setup screen,Connector OAuth setup with client secret rotation step,approved
+ALT-802,DOC-2026-802,current,Export menu,Audit export menu showing CSV and JSONL options,approved
+ALT-804,DOC-2026-804,current,Role table,Role permission table showing viewer export disabled,approved
+ALT-806,DOC-2026-806,current,Search filters panel,Advanced filters panel with old label,needs_update
+ALT-807,DOC-2026-807,current,Offline mode settings,Offline mode toggle in mobile admin settings,approved
+ALT-808,DOC-2026-808,current,Webhook retry table,Webhook retry schedule with 8 attempts over 48 hours,approved
+ALT-809,DOC-2026-809,duplicate_only,Legacy filter screenshot,Duplicate-only screenshot copied from DOC-2026-806,duplicate_only
